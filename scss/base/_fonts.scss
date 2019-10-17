@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto-Regular/Roboto-Regular.eot?#iefix') format('embedded-opentype'),  
+  url('../fonts/Roboto-Regular/Roboto-Regular.woff') format('woff'), 
+  url('../fonts/Roboto-Regular/Roboto-Regular.ttf')  format('truetype'), 
+  url('../fonts/Roboto-Regular/Roboto-Regular.svg#Roboto-Regular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto-Medium/Roboto-Medium.eot?#iefix') format('embedded-opentype'),  
+  url('../fonts/Roboto-Medium/Roboto-Medium.woff') format('woff'), 
+  url('../fonts/Roboto-Medium/Roboto-Medium.ttf')  format('truetype'), 
+  url('../fonts/Roboto-Medium/Roboto-Medium.svg#Roboto-Medium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto-Bold/Roboto-Bold.eot?#iefix') format('embedded-opentype'),  
+  url('../fonts/Roboto-Bold/Roboto-Bold.woff') format('woff'), 
+  url('../fonts/Roboto-Bold/Roboto-Bold.ttf')  format('truetype'), 
+  url('../fonts/Roboto-Bold/Roboto-Bold.svg#Roboto-Bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas';
+    src: url('../fonts/BebasNeueReg/BebasNeueRegular.eot');
+    src: url('../fonts/BebasNeueReg/BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BebasNeueReg/BebasNeueRegular.woff2') format('woff2'),
+        url('../fonts/BebasNeueReg/BebasNeueRegular.woff') format('woff'),
+        url('../fonts/BebasNeueReg/BebasNeueRegular.ttf') format('truetype'),
+        url('../fonts/BebasNeueReg/BebasNeueRegular.svg#BebasNeueRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
